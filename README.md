@@ -1,3 +1,6 @@
+# Name: Santhosh K
+# RegNo: 212223100050
+
 # EX NO-1-CREATE AN ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER
 ## AIM
 To Create an Account in AWS Set up a Root user and an IAM user.
@@ -19,3 +22,4 @@ Step 5: Assign Permissions.
 ![image](./Screenshot%20(1).png)
 ## RESULT
 Thus, Creation of an account in AWS and Set up of Root user and an IAM user is done successfully.
+
